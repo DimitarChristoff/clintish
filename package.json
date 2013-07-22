@@ -1,7 +1,7 @@
 {
   "name": "clintish",
   "description": "event driven options parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT (http://mootools.net/license.txt)",
   "main": "./clintish.js",
   "keywords": [
