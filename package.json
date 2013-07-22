@@ -1,0 +1,30 @@
+{
+  "name": "clintish",
+  "description": "event driven options parser",
+  "version": "0.0.1",
+  "license": "MIT (http://mootools.net/license.txt)",
+  "main": "./clint.js",
+  "keywords": [
+    "command line helper",
+    "command-line",
+    "options parser",
+    "args parser"
+  ],
+  "homepage": "http://github.com/kamicane/clint",
+  "author": "Valerio Proietti <@kamicane> (http://mad4milk.net)",
+  "bugs": {
+    "url": "https://github.com/kamicane/clint/issues"
+  },
+  "dependencies": {
+    "primish": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kamicane/clint.git"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
