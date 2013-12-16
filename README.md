@@ -32,7 +32,7 @@ clint.command('--now', '-n', 'Do not keep running, instead - compile now and qui
 clint.command('--no-compress', '-nc', 'Disable compression settings for less output, enabled by default, eg. ' + '--no-compress'.green + ' to disable', bool);
 
 // register actual args
-clint.command('--log', '-l', 'Set log level, eg. ' + '-l=3'.green);
+clint.command('--log', '-l', 'Set log level, eg. ' + '-l 3'.green);
 
 
 var cliHelp = function(){
